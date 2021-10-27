@@ -12,3 +12,7 @@ This project aims at being a complete, end-to-end solution for the functioning, 
 2)Design new UI / UX</br>
 3)Payment Gateway Integration.</br>
 4)Takes information from donar and provides pdf of Receipt.
+# Instructions
+1) You need to install Vs Code (with all necessary extenstion), XAMPP, MySql</br>
+2) I have used FPDF which is PHP class for genrating PDF.
+3) All the files are supposed to be saved in a single folder where ever the XAMPP is located.(eg...\xampp\htdocs\Project-2)
