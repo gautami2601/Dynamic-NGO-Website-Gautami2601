@@ -14,3 +14,15 @@ This project aims at being a complete, end-to-end solution for the functioning, 
 1) You need to install Vs Code (with all necessary extenstion), XAMPP, MySql</br>
 2) I have used FPDF which is PHP class for genrating PDF.
 3) All the files are supposed to be saved in a single folder where ever the XAMPP is located.(eg...\xampp\htdocs\Dynamic-NGO-Website-Gautami2601)
+# Sign In
+![image](https://user-images.githubusercontent.com/82666687/165260131-9171c1f6-e849-4fab-8cc0-4eee60de4b11.png)
+# Sign Up
+![image](https://user-images.githubusercontent.com/82666687/165258319-114a0aa6-78c4-4871-acc9-af209b86df97.png)
+# Home
+![image](https://user-images.githubusercontent.com/82666687/165258369-697548de-54be-4ecf-b25a-ed9f79269f7d.png)
+# About Us
+![image](https://user-images.githubusercontent.com/82666687/165258412-b3c29216-51ae-499f-aaf9-7b7db90accdb.png)
+# Donate Here
+![image](https://user-images.githubusercontent.com/82666687/165258496-05e509e1-fc32-42fe-a2fd-c47ecf4962b5.png)
+# Donation Form
+![image](https://user-images.githubusercontent.com/82666687/165258556-1190c776-5151-4a5c-8366-a1a2af031d0b.png)
